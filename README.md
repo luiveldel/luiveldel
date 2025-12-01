@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Data Engineer based in Spain<br>👯 I speak Spanish, English and Portuguese<br>🌱 I’m passionate about geopolitical and finance
+🔭 I’m a Data Engineer based in Spain:es:<br>👯 I speak Spanish, English and Portuguese<br>🌱 I’m passionate about geopolitical and finance
 
 
 # 💻 Tech Stack:
